@@ -8,6 +8,8 @@
   _Set the background for the project by describing the type of work involved and the pieces that make up a language and a compiler._
 - [EBNF Logic and Basics](https://ics.uci.edu/~pattis/ICS-33/lectures/ebnf.pdf)
   _Research article and guide describing EBNF, it's origin, and application into developing the grammar of a language. Implemented into [[spec_v1.md]]_
+- [ZigLang Grammar Sheet](https://ziglang.org/documentation/master/#Grammar)
+  _Another programmer's grammar sheet used as a rough reference as to what a grammar sheet should look like._
   **Problem:** Grammar defining was tedious. AI helped with automating the process or defining syntax to model other low level languages (ex. rust or c).
   **Takeaways:**
 - General: Planning is 90% of programming. The last 10 is implementation. Documenting and Research eased the learning and writing process.
